@@ -9,6 +9,8 @@ Some other things to note
 * https://sh1mmer.me/builder
 * https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm
 * https://sh1mmer.me/kiosks.txt
+
+
 We will go into how these links contribute into sh1mmer
   
   
